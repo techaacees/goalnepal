@@ -1,0 +1,29 @@
+.header__container {
+  background: #242424;
+  border-bottom: 2px solid #000000;
+}
+
+.header__opt {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.logo {
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  padding-top: 8px;
+  width: 4rem;
+}
+
+.menu-icon-box {
+  padding: 1rem;
+}
+
+.menu-icon {
+  color: white;
+  font-size: 2rem;
+  cursor: pointer;
+}
+/*# sourceMappingURL=header.css.map */

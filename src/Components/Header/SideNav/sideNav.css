@@ -1,0 +1,23 @@
+.sideNav {
+  border: 1px solid green;
+}
+
+.sideNav__options {
+  font-weight: 300;
+  font-size: 1.2rem;
+  color: #bababa;
+  padding: 1rem;
+  border-top: 1px solid #404040;
+  text-transform: uppercase;
+}
+
+.sideNav__options a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.sideNav__options a svg {
+  color: #fff;
+  margin-right: 1rem;
+}
+/*# sourceMappingURL=sideNav.css.map */
